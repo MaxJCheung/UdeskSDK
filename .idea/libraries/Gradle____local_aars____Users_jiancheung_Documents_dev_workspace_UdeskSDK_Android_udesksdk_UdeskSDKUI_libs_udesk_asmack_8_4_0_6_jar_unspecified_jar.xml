@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: __local_aars__:/Users/jiancheung/Documents/dev/workspace/UdeskSDK-Android/udesksdk/UdeskSDKUI/libs/udesk-asmack-8-4.0.6.jar:unspecified@jar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/UdeskSDKUI/libs/udesk-asmack-8-4.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../UdeskSDK-Android/udesksdk/UdeskSDKUI/libs/udesk-asmack-8-4.0.6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

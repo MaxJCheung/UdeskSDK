@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: __local_aars__:/Users/jiancheung/Documents/dev/workspace/UdeskSDK-Android/udesksdk/udeskvideo/libs/agora-rtc-sdk.jar:unspecified@jar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/udeskvideo/libs/agora-rtc-sdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../UdeskSDK-Android/udesksdk/udeskvideo/libs/agora-rtc-sdk.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

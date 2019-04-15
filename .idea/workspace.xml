@@ -1,7 +1,638 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97ba6a4d-4c40-4969-a4c1-04470c26a629" name="Default Changelist" comment="" />
+    <list default="true" id="97ba6a4d-4c40-4969-a4c1-04470c26a629" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_UdeskSDKUI_libs_bugly_crash_release_2_1_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_UdeskSDKUI_libs_bugly_crash_release_2_1_jar_unspecified_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_UdeskSDKUI_libs_udesk_asmack_8_4_0_6_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_UdeskSDKUI_libs_udesk_asmack_8_4_0_6_jar_unspecified_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_UdeskSDKUI_libs_udesk_sdk_4_1_6_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_UdeskSDKUI_libs_udesk_sdk_4_1_6_jar_unspecified_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_udeskNewDemo_libs_AMap2DMap_5_2_0_AMapSearch_5_3_0_AMapLocation_3_5_0_20170814_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_udeskNewDemo_libs_AMap2DMap_5_2_0_AMapSearch_5_3_0_AMapLocation_3_5_0_20170814_jar_unspecified_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_udeskNewDemo_libs_jpush_android_2_2_0_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_udeskNewDemo_libs_jpush_android_2_2_0_jar_unspecified_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_udeskvideo_libs_agora_rtc_sdk_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_jiancheung_Documents_dev_workspace_UdeskSDK_Android_udesksdk_udeskvideo_libs_agora_rtc_sdk_jar_unspecified_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/libs/bugly_crash_release_2.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/libs/bugly_crash_release_2.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/libs/udesk-asmack-8-4.0.6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/libs/udesk-asmack-8-4.0.6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/libs/udesk_sdk_4.1.6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/libs/udesk_sdk_4.1.6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_029.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_029.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_030.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_030.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_031.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_031.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_032.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_032.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_033.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_033.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_034.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_034.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_035.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_035.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_036.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_036.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_037.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_037.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_038.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_038.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_039.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_039.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_040.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_040.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_041.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_041.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_042.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_042.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_043.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_043.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_044.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_044.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_045.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_045.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_046.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_046.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_047.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_047.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_048.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_048.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_049.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_049.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_050.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_050.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_051.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_051.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_052.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_052.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_053.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_053.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_054.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_054.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_055.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_055.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_056.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/default/udesk_056.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/emoji.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/emoji.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_001.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_002.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_003.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_004.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_004.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_005.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_006.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_007.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_007.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_008.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_008.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_009.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_009.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_010.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_010.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_011.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_011.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_012.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_012.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_013.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_013.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_014.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_014.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_015.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_015.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_016.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_016.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_017.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_017.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_018.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_018.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_019.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_019.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_020.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_020.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_021.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_021.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_022.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_022.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_023.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_023.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_024.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_025.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_025.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_026.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_026.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_027.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_027.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_028.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/assets/emoji/old/udesk_028.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/JsonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/JsonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/PreferenceHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/PreferenceHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/UdeskSDKManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/UdeskSDKManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/UdeskUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/UdeskUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/MessageAdatper.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/MessageAdatper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/NavigationFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/NavigationFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskBaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskBaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskBaseWebViewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskBaseWebViewActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskChatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskChatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskFormActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskFormActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskHelperActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskHelperActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskHelperArticleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskHelperArticleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskOptionsAgentGroupActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskOptionsAgentGroupActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskRobotActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskRobotActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskWebChromeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskWebChromeClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskWebViewUrlAcivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskWebViewUrlAcivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskZoomImageActivty.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/activity/UdeskZoomImageActivty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/NavigationAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/NavigationAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/OptionsAgentGroupAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/OptionsAgentGroupAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/SurvyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/SurvyAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/TagAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/TagAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/UDHelperAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/UDHelperAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/UdeskFunctionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/adapter/UdeskFunctionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/IFunctionItemClickCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/IFunctionItemClickCallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/ILocationMessageClickCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/ILocationMessageClickCallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/INavigationItemClickCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/INavigationItemClickCallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/IProductMessageWebonCliclk.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/IProductMessageWebonCliclk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/ITxtMessageWebonCliclk.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/ITxtMessageWebonCliclk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/IUdeskFormCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/IUdeskFormCallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/IUdeskStructMessageCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/callback/IUdeskStructMessageCallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/CameraInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/CameraInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/CaptureButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/CaptureButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/CaptureLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/CaptureLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/FoucsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/FoucsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/TypeButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/TypeButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/UdeskCameraActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/UdeskCameraActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/UdeskCameraView.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/UdeskCameraView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/CameraOpenOverCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/CameraOpenOverCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/CameraView.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/CameraView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/CaptureListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/CaptureListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/ErrorListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/ErrorListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/FocusCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/FocusCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/StopRecordCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/StopRecordCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/TakePictureCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/TakePictureCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/TypeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/TypeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/UdeskCameraListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/callback/UdeskCameraListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/state/BorrowPictureState.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/state/BorrowPictureState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/state/BorrowVideoState.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/state/BorrowVideoState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/state/CameraMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/state/CameraMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/state/PreviewState.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/state/PreviewState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/state/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/state/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/util/CameraParamUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/util/CameraParamUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/util/CheckPermission.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/camera/util/CheckPermission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/config/ImagePipelineConfigFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/config/ImagePipelineConfigFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/config/UdekConfigUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/config/UdekConfigUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/config/UdeskBaseInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/config/UdeskBaseInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/config/UdeskConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/config/UdeskConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/db/UdeskDBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/db/UdeskDBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/db/UdeskDBManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/db/UdeskDBManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmojiAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmojiAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmojiManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmojiManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmotionKeyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmotionKeyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmotionLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmotionLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmotionTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmotionTab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmotionViewPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/EmotionViewPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/IEmotionExtClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/IEmotionExtClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/IEmotionSelectedListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/IEmotionSelectedListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/LQREmotionKit.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/LQREmotionKit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/MoonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/MoonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/MyImageSpan.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/MyImageSpan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/StickerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/StickerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/StickerCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/StickerCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/StickerItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/StickerItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/StickerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/emotion/StickerManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/ActionMsgReceive.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/ActionMsgReceive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/ActionMsgXmpp.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/ActionMsgXmpp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/Concurrents.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/Concurrents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/IgnoredMsgReceive.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/IgnoredMsgReceive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/IgnoredMsgXmpp.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/IgnoredMsgXmpp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/PreMsgXmpp.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/PreMsgXmpp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/ProductXmpp.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/ProductXmpp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/ReceivedXmpp.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/ReceivedXmpp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/UdeskMessageManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/UdeskMessageManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/UdeskXmppManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/messagemanager/UdeskXmppManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/AgentGroupNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/AgentGroupNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/FunctionMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/FunctionMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/LogMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/LogMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/MsgNotice.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/MsgNotice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/NavigationMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/NavigationMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/OptionsModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/OptionsModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/SDKIMSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/SDKIMSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/StructModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/StructModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/SurveyOptionsModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/SurveyOptionsModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/Tag.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/Tag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/TicketReplieMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/TicketReplieMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/UdeskCommodityItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/UdeskCommodityItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/UdeskQueueItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/model/UdeskQueueItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/permission/RequestCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/permission/RequestCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/permission/XPermissionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/permission/XPermissionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/LocalMedialLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/LocalMedialLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/PhotoSelectorActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/PhotoSelectorActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/PictureVideoPlayActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/PictureVideoPlayActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/PreviewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/PreviewActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/PreviewFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/PreviewFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/SelectResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/SelectResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/adapter/FolderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/adapter/FolderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/adapter/PhotosAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/adapter/PhotosAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/adapter/PreviewPhotosAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/adapter/PreviewPhotosAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/adapter/PreviewPhotosFragmentAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/adapter/PreviewPhotosFragmentAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/decoration/GridSpacingItemDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/decoration/GridSpacingItemDecoration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/entity/LocalMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/entity/LocalMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/entity/LocalMediaFolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/photoselect/entity/LocalMediaFolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/presenter/ChatActivityPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/presenter/ChatActivityPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/presenter/IChatActivityView.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/presenter/IChatActivityView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/presenter/MessageCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/presenter/MessageCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/provider/UdeskFileProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/provider/UdeskFileProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/AudioRecordButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/AudioRecordButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/AudioRecordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/AudioRecordManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/RecordDialogManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/RecordDialogManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/RecordFilePlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/RecordFilePlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/RecordPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/RecordPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/RecordPlayCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/voice/RecordPlayCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/CircleProgressBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/CircleProgressBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/HtmlTagHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/HtmlTagHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UDPullGetMoreListView.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UDPullGetMoreListView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskConfirmPopWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskConfirmPopWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskExpandableLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskExpandableLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskLoadingView.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskLoadingView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskMultiMenuHorizontalWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskMultiMenuHorizontalWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskSurvyPopwindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskSurvyPopwindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskTitleBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/java/cn/udesk/widget/UdeskTitleBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/anim/udesk_pop_enter_anim.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/anim/udesk_pop_enter_anim.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/anim/udesk_pop_exit_anim.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/anim/udesk_pop_exit_anim.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_001.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_audio_tip.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_audio_tip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_camer_normal1.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_camer_normal1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_cancle.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_cancle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_cancle_audio.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_cancle_audio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_checkphoto_bg_select_false.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_checkphoto_bg_select_false.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_close.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_defalut_image_loading.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_defalut_image_loading.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_defualt_failure.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_defualt_failure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_file_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_file_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_cheat_add.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_cheat_add.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_cheat_emo.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_cheat_emo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_cheat_keyboard.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_cheat_keyboard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_cheat_voice.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_cheat_voice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_emoji_del.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_emoji_del.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_placeholder.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_placeholder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_ic_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_default_agent_avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_default_agent_avatar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_default_user_avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_default_user_avatar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_item_bg_left.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_item_bg_left.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_item_bg_right.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_item_bg_right.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_left_default.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_left_default.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_left_play1.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_left_play1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_left_play2.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_left_play2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_right_default.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_right_default.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_right_play1.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_right_play1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_right_play2.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_record_right_play2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_retry.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_im_retry.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_image_normal1.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_image_normal1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_location_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_location_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_offline_status.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_offline_status.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_online_status.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_online_status.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_orgin_pressed.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_orgin_pressed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_origin_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_origin_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_page_selected.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_page_selected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_page_unselected.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_page_unselected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_photo_time_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_photo_time_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_pop_background.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_pop_background.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_progressbar.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_progressbar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_queue_status.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_queue_status.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_radio_checkbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_radio_checkbox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_radio_uncheckbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_radio_uncheckbox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_recorder.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_recorder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_select_picture_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_select_picture_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_star_off.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_star_off.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_star_on.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_star_on.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_cancle.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_cancle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_common.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_common.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_statify.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_statify.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_unstatify.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_survy_unstatify.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_switch_camera.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_switch_camera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_tip_agent.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_tip_agent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_titlebar_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_titlebar_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_cancle.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_cancle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_item_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_item_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_item_r_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_item_r_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_play.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udesk_video_play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/udeskv_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/voice_to_short.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable-xhdpi/voice_to_short.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_anim_progress.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_anim_progress.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_bg_commodity_link.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_bg_commodity_link.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_bg_selected_frame_photos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_bg_selected_frame_photos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_checkbox_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_checkbox_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_checkphoto_bg_select_true.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_checkphoto_bg_select_true.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_dlg_select_singlechoice_check_mark_light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_dlg_select_singlechoice_check_mark_light.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_event_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_event_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_express_noraml_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_express_noraml_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_express_pressed_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_express_pressed_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_helper_shape_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_helper_shape_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_helpersearch_editext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_helpersearch_editext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_im_record_play_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_im_record_play_left.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_im_record_play_right.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_im_record_play_right.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_image_placeholder.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_image_placeholder.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_imgroup_bg_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_imgroup_bg_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_navigation_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_navigation_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_pop_background.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_pop_background.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_popvodieo_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_popvodieo_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_progress_drawable.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_progress_drawable.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bg_corners.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bg_corners.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bg_left_corners.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bg_left_corners.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bg_left_false_corners.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bg_left_false_corners.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bg_right_corners.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bg_right_corners.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bg_right_false_corners.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bg_right_false_corners.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bt_selecter_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bt_selecter_left.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bt_selecter_right.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_puw_bt_selecter_right.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_record_button_normal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_record_button_normal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_record_button_recoding.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_record_button_recoding.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_remark_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_remark_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_remark_tag_checked_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_remark_tag_checked_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_remark_tag_uncheck_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_remark_tag_uncheck_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_selector_common_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_selector_common_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_selector_edit_focus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_selector_edit_focus.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_selector_view_pager_indicator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_selector_view_pager_indicator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_send_msg_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_send_msg_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_bottom_gray.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_bottom_gray.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_bottom_green.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_bottom_green.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_oval.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_oval.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_session_btn_voice_normal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_session_btn_voice_normal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_session_btn_voice_press.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_session_btn_voice_press.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_tab_normal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_tab_normal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_tab_press.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_shape_tab_press.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_struct_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_struct_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_submit_remark_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/drawable/udesk_submit_remark_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_base.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_base.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_im.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_im.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_picture_videoplay.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_picture_videoplay.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_preview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_preview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_select.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_select.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_small_camera.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_activity_small_camera.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_articleactivity_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_articleactivity_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_base_webview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_base_webview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_camera_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_camera_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_event_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_event_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_in_line_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_in_line_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_leavemsg_item_txt_l.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_leavemsg_item_txt_l.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_leavemsg_item_txt_r.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_leavemsg_item_txt_r.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_audiot_l.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_audiot_l.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_audiot_r.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_audiot_r.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_file_l.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_file_l.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_file_r.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_file_r.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_imgt_l.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_imgt_l.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_imgt_r.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_imgt_r.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_location_r.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_location_r.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_product_r.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_product_r.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_redirect.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_redirect.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_smallvideo_l.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_smallvideo_l.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_smallvideo_r.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_smallvideo_r.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_txt_l.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_txt_l.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_txt_r.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_txt_r.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_video_l.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_video_l.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_video_r.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_item_video_r.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_itemstruct_l.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_msg_itemstruct_l.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_rich_item_txt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_chat_rich_item_txt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_confirm_pop_dialog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_confirm_pop_dialog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_default_progressbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_default_progressbar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_dialog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_dialog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_dialog_audio_record_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_dialog_audio_record_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_emotion_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_emotion_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_emotion_tab.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_emotion_tab.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_expandlayout_xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_expandlayout_xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_folder_item_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_folder_item_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_fragment_preview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_fragment_preview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_im_commodity_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_im_commodity_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_img_itemview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_img_itemview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_include_func_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_include_func_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_item_preview_photo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_item_preview_photo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_layout_emoji_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_layout_emoji_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_layout_get_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_layout_get_more.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_layout_helper_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_layout_helper_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_layout_optionagentgroup_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_layout_optionagentgroup_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_line_horizontal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_line_horizontal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_line_vertical.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_line_vertical.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_loading_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_loading_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_multi_horizontal_menu_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_multi_horizontal_menu_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_multi_horizontal_popmenu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_multi_horizontal_popmenu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_options_agentgroup_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_options_agentgroup_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_photo_select_grid.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_photo_select_grid.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_picture_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_picture_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_privew_selected_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_privew_selected_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_survy_type_express_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_survy_type_express_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_survy_type_star_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_survy_type_star_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_survy_type_text_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_survy_type_text_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_survy_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_survy_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_tag_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_tag_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_text_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_text_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_title_bar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_title_bar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_zoom_imageview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesk_zoom_imageview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesknavigatiion_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/layout/udesknavigatiion_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values-en/udesk_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values-en/udesk_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values-zh/udesk_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values-zh/udesk_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values/udesk_attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values/udesk_attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values/udesk_colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values/udesk_colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values/udesk_dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values/udesk_dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values/udesk_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values/udesk_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values/udesk_styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/values/udesk_styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/xml/udesk_provider_paths.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDKUI/src/main/res/xml/udesk_provider_paths.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/libs/AMap2DMap_5.2.0_AMapSearch_5.3.0_AMapLocation_3.5.0_20170814.jar" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/libs/AMap2DMap_5.2.0_AMapSearch_5.3.0_AMapLocation_3.5.0_20170814.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/libs/arm64-v8a/libjpush220.so" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/libs/arm64-v8a/libjpush220.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/libs/armeabi-v7a/libjpush220.so" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/libs/armeabi-v7a/libjpush220.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/libs/armeabi/libjpush220.so" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/libs/armeabi/libjpush220.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/libs/jpush-android-2.2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/libs/jpush-android-2.2.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/libs/mips/libjpush220.so" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/libs/mips/libjpush220.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/libs/mips64/libjpush220.so" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/libs/mips64/libjpush220.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/libs/x86/libjpush220.so" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/libs/x86/libjpush220.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/libs/x86_64/libjpush220.so" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/libs/x86_64/libjpush220.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/angry.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/angry.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/cry.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/cry.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/dead.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/dead.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/embarrass.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/embarrass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/happy.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/happy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/joy.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/joy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/love.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/love.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/sad.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/sad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/shy.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/shy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/sleepy.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/sleepy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/surprise.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/surprise.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/wink.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test1/wink.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_00.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_00.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_01.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_01.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_02.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_02.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_03.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_03.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_04.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_04.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_05.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_05.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_06.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_06.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_07.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_07.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_08.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_08.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_09.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_09.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_10.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_10.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_11.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_11.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_12.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_12.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_13.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_13.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_14.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_14.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_15.gif" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/assets/udeskemotion/test2/tsj_15.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/NotificationUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/NotificationUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/UdeskCustomDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/UdeskCustomDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/UdeskFuncationExampleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/UdeskFuncationExampleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/UdeskInitKeyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/UdeskInitKeyActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/UdeskUseGuideActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/UdeskUseGuideActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/UnRedMsgAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/activity/UnRedMsgAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/jpush/ExampleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/jpush/ExampleApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/jpush/MyReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/jpush/MyReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/maps/LocationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/maps/LocationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/maps/LocationAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/maps/LocationAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/maps/SearchPositionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/maps/SearchPositionActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/maps/ShowSelectLocationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/java/udesk/sdk/demo/maps/ShowSelectLocationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/back.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/back_origin_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/back_origin_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/back_origin_select.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/back_origin_select.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/jpush_ic_richpush_actionbar_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/jpush_ic_richpush_actionbar_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/jpush_ic_richpush_actionbar_divider.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/jpush_ic_richpush_actionbar_divider.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/jpush_notification_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/jpush_notification_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/jpush_richpush_btn_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/jpush_richpush_btn_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/jpush_richpush_progressbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/jpush_richpush_progressbar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/login_linearlayout_bg.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/login_linearlayout_bg.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/map_pin.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/map_pin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/position_is_select.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/position_is_select.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/search.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable-hdpi/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/actionbar_img_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/actionbar_img_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/actionbar_tv_nor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/actionbar_tv_nor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/actionbar_tv_pre.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/actionbar_tv_pre.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/actionbar_tv_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/actionbar_tv_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/listview_item_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/listview_item_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/login_linearlayout_bg.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/login_linearlayout_bg.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/often_messages_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/often_messages_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/udesk_btn_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/udesk_btn_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/udesk_edit_bg.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/drawable/udesk_edit_bg.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/activity_location.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/activity_location.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/activity_search_position.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/activity_search_position.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/activity_select_location.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/activity_select_location.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/jpush_popwin_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/jpush_popwin_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/jpush_webview_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/jpush_webview_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/location_item_poi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/location_item_poi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/udesk_dialog_normal_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/udesk_dialog_normal_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/udesk_funcation_example_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/udesk_funcation_example_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/udesk_init_key_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/udesk_init_key_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/udesk_unread_msg_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/udesk_unread_msg_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/udesk_use_guide_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/layout/udesk_use_guide_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_agent_id.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_agent_id.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_agentgroupid.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_agentgroupid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_checkbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_checkbox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_conversion_bysetting_menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_conversion_bysetting_menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_conversion_tips.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_conversion_tips.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_form_table.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_form_table.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_guide_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_guide_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_help_tip.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_help_tip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_init_key_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_init_key_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_push.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_push.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_redict_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_redict_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_send_commodity_link.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_send_commodity_link.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_uncheckbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_uncheckbox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_unread_msg.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_unread_msg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_unread_msgcount.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_unread_msgcount.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_update_ui.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_update_ui.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_update_userinfo.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_update_userinfo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_utils.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/mipmap-xxxhdpi/udesk_utils.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/values/jpush_style.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/values/jpush_style.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/values/style.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/values/style.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/src/main/res/xml/test_paths.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/src/main/res/xml/test_paths.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskNewDemo/udeskNewDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskNewDemo/udeskNewDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udesksdk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UdeskSDK.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/libs/agora-rtc-sdk.jar" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/libs/agora-rtc-sdk.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/cpp/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/cpp/Android.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/cpp/Application.mk" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/cpp/Application.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/cpp/agora/IAgoraMediaEngine.h" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/cpp/agora/IAgoraMediaEngine.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/cpp/agora/IAgoraRtcEngine.h" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/cpp/agora/IAgoraRtcEngine.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/cpp/agora/PLACEHOLDER" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/cpp/agora/PLACEHOLDER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/cpp/video_preprocessing_plugin_jni.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/cpp/video_preprocessing_plugin_jni.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/cpp/video_preprocessing_plugin_jni.h" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/cpp/video_preprocessing_plugin_jni.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/EventScoketMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/EventScoketMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/MessageManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/MessageManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/MethodEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/MethodEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/MsgUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/MsgUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/OnMessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/OnMessageListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/SigtokenCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/SigtokenCallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/UdeskSocketContants.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/UdeskSocketContants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/WebsocketCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/WebsocketCallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/client/UdeskWebsocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/client/UdeskWebsocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/EventAck.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/EventAck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/EventHead.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/EventHead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/RepHead.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/RepHead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtBye.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtBye.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtCancel.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtCancel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtInvite.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtInvite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtPreAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtPreAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtStateChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/event/EvtStateChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/AnswerRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/AnswerRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/ByeRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/ByeRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/CancelRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/CancelRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/GetChannelTokenRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/GetChannelTokenRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/InviteRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/InviteRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/PreAnswerlRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/invite/PreAnswerlRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/GetAttrAllRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/GetAttrAllRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/GetAttrRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/GetAttrRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/GetStateRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/GetStateRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/GetUserStateRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/GetUserStateRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/LoginRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/LoginRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/LogoutRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/LogoutRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/SetAttrRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/SetAttrRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/SetStateRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udesksocket/mode/manager/SetStateRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/AgoraMethodEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/AgoraMethodEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/UdeskRtcEngineEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/UdeskRtcEngineEventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/UdeskVideoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/UdeskVideoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/UdeskVideoCallManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/UdeskVideoCallManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/UdeskWorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/UdeskWorkerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/FloatActionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/FloatActionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/FloatCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/FloatCallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/FloatLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/FloatLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/FloatWindowManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/FloatWindowManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/FloatPermissionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/FloatPermissionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/rom/HuaweiUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/rom/HuaweiUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/rom/MeizuUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/rom/MeizuUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/rom/MiuiUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/rom/MiuiUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/rom/QikuUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/rom/QikuUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/rom/RomUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/permission/rom/RomUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/receiver/HomeWatcherReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/receiver/HomeWatcherReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/service/FloatMonkService.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/service/FloatMonkService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/util/Constants_LM.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/util/Constants_LM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/util/DensityUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/util/DensityUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/util/SpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/floatview/util/SpUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/mode/EventAgoraMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/mode/EventAgoraMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/mode/EventFinish.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/mode/EventFinish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/presenter/VideoPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/java/udesk/udeskvideo/presenter/VideoPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/libs/arm64-v8a/PLACEHOLDER" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/libs/arm64-v8a/PLACEHOLDER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/libs/arm64-v8a/libagora-rtc-sdk-jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/libs/arm64-v8a/libagora-rtc-sdk-jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/libs/armeabi-v7a/PLACEHOLDER" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/libs/armeabi-v7a/PLACEHOLDER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/libs/armeabi-v7a/libagora-rtc-sdk-jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/libs/armeabi-v7a/libagora-rtc-sdk-jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/libs/x86/PLACEHOLDER" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/libs/x86/PLACEHOLDER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/libs/x86/libagora-rtc-sdk-jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/libs/x86/libagora-rtc-sdk-jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/anim/fade_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/anim/fade_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/anim/fade_out.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/anim/fade_out.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_answer.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_answer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_camera_selected.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_camera_selected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_camera_unselected.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_camera_unselected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_hang_up.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_hang_up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_mute_selected.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_mute_selected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_mute_unselected.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_mute_unselected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_putway.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_putway.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_speaker_selected.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_speaker_selected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_speaker_unselected.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_speaker_unselected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_switch_camera.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_switch_camera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_video_agent_avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/drawable-xxxhdpi/udesk_video_agent_avatar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/layout/float_littlemonk_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/layout/float_littlemonk_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/layout/udesk_video_chat_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/layout/udesk_video_chat_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/values-en/udesk_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/values-en/udesk_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/values-zh/udesk_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/values-zh/udesk_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udeskvideo/udeskvideo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/udeskvideo/udeskvideo.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <ignored path="$PROJECT_DIR$/udeskNewDemo/build/intermediates/annotation_processor_list/" />
@@ -75,7 +706,59 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/udeskNewDemo">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UdeskSDK" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UdeskSDK" type="f1a62948:ProjectNode" />
+                <item name="UdeskSDK" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UdeskSDK" type="f1a62948:ProjectNode" />
+                <item name="UdeskSDK" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UdeskSDK" type="f1a62948:ProjectNode" />
+                <item name="UdeskSDK" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UdeskSDK" type="f1a62948:ProjectNode" />
+                <item name=":udeskNewDemo" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UdeskSDK" type="f1a62948:ProjectNode" />
+                <item name=":udeskNewDemo" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UdeskSDK" type="f1a62948:ProjectNode" />
+                <item name=":udeskNewDemo" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -102,12 +785,39 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1528953120">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/udeskNewDemo/build.gradle">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../UdeskSDK-Android/udesksdk/udeskNewDemo/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="716">
+              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -119,11 +829,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UdeskSDKUI/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="520">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
             </state>
           </provider>
           <provider editor-type-id="android-manifest" />
@@ -132,7 +842,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -151,28 +861,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="udesksdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udesksdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="udesksdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udesksdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udesksdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udesksdk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView">
@@ -181,6 +869,17 @@
             <path>
               <item name="udesksdk" type="1abcf292:AndroidViewProjectNode" />
               <item name="udeskNewDemo" type="e9137016:NonAndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UdeskSDK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udeskNewDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,7 +902,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.UdeskSDK:udeskNewDemo [assembleDebug]">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -242,6 +941,33 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UdeskSDK:udeskNewDemo [assembleDebug]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/udeskNewDemo" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assembleDebug" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.udeskNewDemo" />
+      <item itemvalue="Gradle.UdeskSDK:udeskNewDemo [assembleDebug]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.UdeskSDK:udeskNewDemo [assembleDebug]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -260,29 +986,29 @@
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.32962668" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Logcat" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Debug" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32177845" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" weight="0.32931423" />
-      <window_info anchor="bottom" id="Android Profiler" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="FIR.im" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19618745" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" visible="true" weight="0.32931423" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.53051996" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32931423" />
+      <window_info anchor="right" id="FIR.im" order="0" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" order="1" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.32962668" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -301,11 +1027,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UdeskSDKUI/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="520">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
       <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../UdeskSDK-Android/udesksdk/udeskNewDemo/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
